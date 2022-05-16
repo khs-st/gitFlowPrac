@@ -6,4 +6,8 @@
 first-commit
 second-commit
 >>>>>>> feature/second
+<<<<<<< HEAD
 second-commit modified retry
+=======
+second-commit modified
+>>>>>>> main
