@@ -6,4 +6,4 @@
 first-commit
 second-commit
 >>>>>>> feature/second
-second-commit modified
+second-commit modified retry
