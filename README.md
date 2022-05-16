@@ -6,3 +6,4 @@
 first-commit
 second-commit
 >>>>>>> feature/second
+second-commit modified
